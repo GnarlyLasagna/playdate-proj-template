@@ -6,8 +6,11 @@ This folder contains projects demonstrating usage of the C interface to the Play
 --for compilation use
 
 mkdir build
+
 cd build
+
 cmake ..
+
 make
 
 
